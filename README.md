@@ -106,6 +106,7 @@ This distribution indicates that nearly **90% of total revenue comes from electr
 
 High-value electronics items such as **cameras and monitors** play a significant role in driving this category dominance.
 
+![](images/sales_by_category.png)
 ---
 
 ## Regional Sales Performance
@@ -117,6 +118,7 @@ The **South region records the lowest sales at $1.54M (14.4%)**.
 
 Although the West leads overall performance, the relatively balanced distribution across regions suggests that the company maintains **a broad national customer base rather than relying on a single geographic market**.
 
+![](images/top_region.png)
 ---
 
 ## Product Performance
@@ -134,6 +136,7 @@ These products represent a mix of **premium electronics and frequently purchased
 
 Notably, the **top five products alone generate over $5.5M in revenue**, representing **more than 50% of total sales**.
 
+![](images/product_performance.png)
 ---
 
 ## City-Level Sales Distribution
@@ -151,6 +154,7 @@ New York City alone generates **nearly 10% of total company revenue**, highlight
 
 The strong presence of large urban centers suggests that **population density and purchasing power strongly influence demand patterns**.
 
+![](images/top_selling_cities.png)
 ---
 
 ## Monthly Sales Trend
@@ -162,17 +166,19 @@ The lowest performing month is **February**, with **$702K in sales**.
 
 Despite these fluctuations, the absence of extreme seasonal spikes suggests that the business experiences **relatively steady demand across the year**, with occasional peaks likely influenced by promotional activity or product demand cycles.
 
+![](images/sales_trend.png)
 ---
 
 ## Overall Performance Snapshot
 Across the **3,500 recorded transactions**, the business generated:
 
-- **$10.67M in total sales**
-- **$1.84M in total profit**
+- **$10.7M in total sales**
+- **$1.8M in total profit**
 - **17,261 total units sold**
 
 This indicates an overall **profit margin of roughly 17%**, suggesting healthy profitability across the product mix.
 
+![](images/kpi.png)
 ---
 
 # Recommendations
