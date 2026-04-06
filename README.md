@@ -181,9 +181,21 @@ This indicates an overall **profit margin of roughly 17%**, suggesting healthy p
 ![](images/kpi.png)
 ---
 
+## Year-over-Year Performance
+A comparison of performance between **2023** and **2024** reveals a notable shift in business dynamics.
+Total sales declined from **$3.79M** in 2023 to **$3.63M** in 2024, representing a **4.3%** decrease in revenue. Profit experienced an even sharper drop, failing from **$666.9K** to **$604.9K**, a **9.3%** decline year over year.
+
+Interestingly, the total quantity of products sold increased slightly, rising from **5,925** units in 2023 to **5,949** units in 2024, representing a **0.4%** increase in volume.
+
+This divergence between rising sales volume and declining revenue and profit suggests that the business may have experienced pricing pressure, increased discounting, or a shift in customer purchasing behaviour toward lower-margin products.
+
+The sharper decline in profit relative to sales further indicates that profit margins may be tightening, which could have long-term implications for business profitability if not addressed.
+---
+
 # Recommendations
 Based on the analysis, several strategic opportunities emerge.
 
+- Investigate declining revenue and profit despite higher sales volume, as this may indicate discounting, rising costs, or a shift toward lower-margin products.
 - Expand marketing efforts around **high-performing electronics products**, particularly cameras and monitors, as these products generate significant revenue.
 - Focus targeted promotions and advertising in **top-performing metropolitan markets** such as New York City and Los Angeles to maximize returns in high-demand areas.
 - Leverage the strong performance of **accessories products** to create product bundles with electronics devices, potentially increasing **average order value**.
