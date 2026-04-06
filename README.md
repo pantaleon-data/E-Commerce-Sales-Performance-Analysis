@@ -154,7 +154,7 @@ New York City alone generates **nearly 10% of total company revenue**, highlight
 
 The strong presence of large urban centers suggests that **population density and purchasing power strongly influence demand patterns**.
 
-![](images/top_selling_cities.png)
+![](images/top_selling_city.png)
 ---
 
 ## Monthly Sales Trend
