@@ -190,6 +190,7 @@ Interestingly, the total quantity of products sold increased slightly, rising fr
 This divergence between rising sales volume and declining revenue and profit suggests that the business may have experienced pricing pressure, increased discounting, or a shift in customer purchasing behaviour toward lower-margin products.
 
 The sharper decline in profit relative to sales further indicates that profit margins may be tightening, which could have long-term implications for business profitability if not addressed.
+
 ---
 
 # Recommendations
