@@ -194,6 +194,7 @@ The sharper decline in profit relative to sales further indicates that profit ma
 ---
 
 # Recommendations
+
 Based on the analysis, several strategic opportunities emerge.
 
 - Investigate declining revenue and profit despite higher sales volume, as this may indicate discounting, rising costs, or a shift toward lower-margin products.
