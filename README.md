@@ -1,9 +1,9 @@
 # E-Commerce-Sales-Performance-Analysis
 
 ## Background and Overview
-This project analyzes transactional e-commerce sales data to understand key drivers of business performance. The goal of the analysis is to examine how sales, profit, and product demand vary across product categories, geographic regions, and time.
+E-commerce companies generate large volumes of transactional data everyday. Analyzing this data helps businesses understand purchasing patterns, evaluate product performance, identify revenue drivers, and make informed decisions about pricing, inventory, and marketing strategies.
 
-Using Microsoft Excel, the dataset was transformed and explored to identify patterns in revenue generation, regional demand distribution, and product performance. Interactive dashboard components were created to allow dynamic exploration of key metrics such as top performing products, leading regions, and highest-selling cities.
+This project analyzes transactional e-commerce sales data to understand key drivers of business performance. The goal of the analysis is to examine how sales, profit, and product demand vary across product categories, geographic regions, and time. Using Microsoft Excel, the dataset was transformed and explored to identify patterns in revenue generation, regional demand distribution, and product performance. Interactive dashboard components were created to allow dynamic exploration of key metrics such as top performing products, leading regions, and highest-selling cities.
 
 The resulting dashboard provides a high-level view of business performance while enabling deeper investigation into operational and sales trends.
 
